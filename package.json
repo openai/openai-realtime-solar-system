@@ -11,6 +11,7 @@
   "dependencies": {
     "@splinetool/react-spline": "^4.0.0",
     "@splinetool/runtime": "^1.9.57",
+    "@vercel/analytics": "^1.6.1",
     "chart.js": "^4.4.7",
     "lucide-react": "^0.469.0",
     "next": "^15.1.11",
